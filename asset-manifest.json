@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.811d59dc.chunk.css",
+    "main.js": "./static/js/main.38c10f6d.chunk.js",
+    "main.js.map": "./static/js/main.38c10f6d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.ee012f50.chunk.js": "./static/js/2.ee012f50.chunk.js",
+    "static/js/2.ee012f50.chunk.js.map": "./static/js/2.ee012f50.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.811d59dc.chunk.css.map": "./static/css/main.811d59dc.chunk.css.map",
+    "static/js/2.ee012f50.chunk.js.LICENSE.txt": "./static/js/2.ee012f50.chunk.js.LICENSE.txt",
+    "static/media/Accessories.c89ddada.png": "./static/media/Accessories.c89ddada.png",
+    "static/media/BreadCrumbs.scss": "./static/media/ArrowRight.e028d388.svg",
+    "static/media/Sort.scss": "./static/media/Chevron (Arrow Down).98c9dd6d.svg",
+    "static/media/Close.3ea864f5.svg": "./static/media/Close.3ea864f5.svg",
+    "static/media/Home.d4c29e4f.svg": "./static/media/Home.d4c29e4f.svg",
+    "static/media/ProductDetails.scss": "./static/media/left-arrow.c0d01b22.svg",
+    "static/media/Phones.9d91280e.png": "./static/media/Phones.9d91280e.png",
+    "static/media/Search.eb670dd9.svg": "./static/media/Search.eb670dd9.svg",
+    "static/media/Tablets.ab919a9b.png": "./static/media/Tablets.ab919a9b.png",
+    "static/media/Union.ab8ba6b8.svg": "./static/media/Union.ab8ba6b8.svg",
+    "static/media/backToTop.3ffcd791.svg": "./static/media/backToTop.3ffcd791.svg",
+    "static/media/favorite.ee6b3171.svg": "./static/media/favorite.ee6b3171.svg",
+    "static/media/favoriteLiked.d554a185.svg": "./static/media/favoriteLiked.d554a185.svg",
+    "static/media/plus.5a5c9983.svg": "./static/media/plus.5a5c9983.svg",
+    "static/media/right-arrow.4756c064.svg": "./static/media/right-arrow.4756c064.svg",
+    "static/media/shopingBag.1962e424.svg": "./static/media/shopingBag.1962e424.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.ee012f50.chunk.js",
+    "static/css/main.811d59dc.chunk.css",
+    "static/js/main.38c10f6d.chunk.js"
+  ]
+}
